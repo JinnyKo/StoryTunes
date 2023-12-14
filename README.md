@@ -1,6 +1,6 @@
 # StoryTunes
 
-##1.Project Background:
+## 1.Project Background:
 I decided to plan this project with the aim of dynamically providing background music that suits each chapter by connecting the emotions in the text with the emotions in the music.
 
 I have always enjoyed reading and listening to music, but when doing both simultaneously, my concentration tends to lean toward one side. I often wondered if it was impossible to satisfy both senses with high concentration. However, I cannot imagine movies or dramas without background music. Hence, I thought that there must be a category where these two senses can harmonize appropriately.
