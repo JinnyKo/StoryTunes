@@ -1,4 +1,5 @@
 # StoryTunes
+This project utilizes a multimodal architecture to precisely capture the nuanced emotions and atmosphere of the text and selects music that complements them.
 
 ## 1.Project Background:
 I decided to plan this project with the aim of dynamically providing background music that suits each chapter by connecting the emotions in the text with the emotions in the music.
